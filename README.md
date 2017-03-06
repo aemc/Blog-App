@@ -1,1 +1,2 @@
-# BlogApp written in Node/Express
+# Blog app coded in Node/Express
+* In progress...
