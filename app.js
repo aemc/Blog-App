@@ -62,6 +62,11 @@ app.get("/blogs/:id", function(req, res) {
     })
 });
 
+// edit route
+app.get("/blogs/:id/edit", function(req, res) {
+    res.render("edit");
+})
+
 app.listen(process.env.PORT, process.env.IP, function() {
     console.log("Server is running!");
 });
