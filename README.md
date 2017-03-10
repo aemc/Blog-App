@@ -1,3 +1,10 @@
-# Blog app coded in Node/Express
-* Blog app that applies RESTful routing to pages.
+# Piano Blog App
+* A web application built to practice RESTful routing.
+
+# Built With:
+* Html
+* CSS
+* NodeJs
+* Express
+* MongoDB
 
