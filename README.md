@@ -2,9 +2,9 @@
 * A web application built to practice RESTful routing.
 
 ### Built With:
-* Html
+* HTML
 * CSS
-* NodeJs
+* NodeJS
 * Express
 * MongoDB
 
