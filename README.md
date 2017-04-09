@@ -8,3 +8,6 @@
 * Express
 * MongoDB
 
+### ToDoList:
+= [x] Updated variables to ES6/7 notation
+- [ ] Polish frontend
