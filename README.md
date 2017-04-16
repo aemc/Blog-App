@@ -5,7 +5,7 @@ Personal Project. A web application built to practice RESTful routing.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-You will need to install NodeJS, Express, and MongoDB. See below for links.
+You will need to install Node.js, Express, and MongoDB. See below for links.
 
 ### Installing
 Clone or download the source code and run ```$ node app.js``` within the root directory.
@@ -19,7 +19,7 @@ Either run in the cloud9 IDE or in your own development environment. The latter 
 - [ ] Polish frontend
 
 ### Built With
-* [NodeJS with Express](https://expressjs.com/) - Backend framework
+* [Node.js with Express](https://expressjs.com/) - Backend framework
 * [MongoDB](https://www.mongodb.com/) - Database
 * [Semantic UI](https://semantic-ui.com/) - Frontend framework
 
