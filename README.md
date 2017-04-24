@@ -23,6 +23,5 @@ Either run in the cloud9 IDE or in your own development environment. The latter 
 * [MongoDB](https://www.mongodb.com/) - Database
 * [Semantic UI](https://semantic-ui.com/) - Frontend framework
 
-### Authors
-* **Ammiel Cruz** - Frontend and backend - [aemc](https://github.com/aemc)
+
 
