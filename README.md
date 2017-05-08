@@ -1,4 +1,4 @@
-# Piano Blog App
+# Piano Blog
 Personal Project. A web application built to practice RESTful routing.
 
 ## Getting Started
@@ -15,7 +15,7 @@ Either run in the cloud9 IDE or in your own development environment. The latter 
 
 ### ToDoList:
 - [x] Updated variables to ES6/7 notation
-- [ ] Card size consistency with picture uploads
+- [x] Card size consistency with picture uploads
 - [ ] Polish frontend
 
 ### Built With
