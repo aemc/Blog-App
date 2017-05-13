@@ -101,6 +101,7 @@ app.delete("/blogs/:id", (req, res) => {
     });
 });
 
+// listener
 app.listen(3000, () => {
     console.log("Server is running!");
 });

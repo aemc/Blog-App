@@ -17,6 +17,7 @@ Either run in the cloud9 IDE or in your own development environment. The latter 
 - [x] Updated variables to ES6/7 notation
 - [x] Card size consistency with picture uploads
 - [ ] Polish frontend
+- [ ] Import Babel dependencies
 
 ### Built With
 * [Node.js with Express](https://expressjs.com/) - Backend framework
